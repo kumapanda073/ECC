@@ -5,3 +5,4 @@ unidic-lite
 numpy
 pandas
 matplotlib
+scikit-learn
