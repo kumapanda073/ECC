@@ -1,0 +1,7 @@
+case,state,n_obs,mean_R,mean_err2,mean_err2_over_R
+Fixed var. (Case 1),Density,2070000,0.013333,0.190759,14.3069
+Cls Head only (Case 2),Density,2070000,0.159825,0.190175,91.2987
+Dual Head (Case 3),Density,2070000,0.301135,0.190022,6.2438
+Fixed var. (Case 1),Velocity,2070000,0.0108,0.116929,10.8268
+Cls Head only (Case 2),Velocity,2070000,0.148316,0.117059,11.75
+Dual Head (Case 3),Velocity,2070000,0.305761,0.116784,1.3023

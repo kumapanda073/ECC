@@ -1,0 +1,502 @@
+[
+  {
+    "density": 0.2,
+    "text": "イヤホンを洗濯機で一緒に回しちゃって絶望してる。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "イチゴ大福のあんこは白あん派なんだよね。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "お気に入りのYouTuberがライブ配信やってる。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "部屋の模様替えしたいけど、家具が重くて諦めた。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "炭酸が抜けたメロンソーダ、ただの甘い水で草。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "ペンケースの中に、インクの出ないボールペン混ざってた。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "最近、朝起きるのが地味にしんどい季節になってきた。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "ポテトチップスのコンソメ味って、なんであんな美味いの。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "時計の電池が切れてて、午前2時で止まってた。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "昨日の夜に食べたニンニクラーメンがまだ残ってる気がする。",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "お腹空きすぎて、グーグー鳴り止まなくて恥ずかしい。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ホッチキスの芯がちょうど切れて、探すハメになった。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "昨日の変な夢のせいで、朝からずっとモヤモヤしてる。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "トマトパスタに粉チーズをこれでもかってくらいかける派。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "キーホルダーがいつの間にか割れててショックなんだけど。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "今週の週末、久しぶりに実家に帰ろうかなあ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "エコバッグを忘れたから、レジ袋を3円で買う敗北感。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "コーンスープの底に残った粒、いつも綺麗に食べられない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "大学の購買で売ってるメロンパン、地味にクオリティ高い。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "修正テープが途中でたるんで、巻き戻すのめっちゃダルい。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "味噌汁の豆腐、絹派？木綿派？永遠に決着つかない議論。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "爪切りって、なんで使いたい時に限って行方不明になるの。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "それな、以外の返事が見つからない話だった。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "バドミントンのガットまた切れた。耐久性どうなってんの。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ガチャ天井まで回して爆死。無課金勢に戻ります。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ワイヤレスイヤホン、片耳だけ先に充電切れるの何なん？",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "平成レトロ、リアルタイム世代からすると複雑な気持ちになる。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "新作グミが酸っぱすぎて顔面崩壊した。リピ確定。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "筋肉痛が二日後に来るようになったら大人らしい。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "猫って段ボールのサイズ感関係なく収まろうとするよね。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "日焼け止めの塗り直し忘れて腕がヒリヒリする、夏の洗礼。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "推しが尊すぎて語彙力が消滅しました。無理。好き。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ドラム式洗濯機のフィルター掃除、サボった代償がデカい。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "単語帳、最初の10ページだけ異様に詳しいのなんでだろう。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "二度寝防止でアラーム5分おきにかけてるけど全部止めてる。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "タピオカの次に来るスイーツ、毎年予想してる気がする。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "野球中継の延長で録画ズレるの、令和になっても解決しないの？",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ラップの切れ目が見つからない時の絶望感、共感してほしい。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "漫画の最新刊、発売日忘れて同じ巻を2冊買いかけた。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "新作フラペチーノ、甘さが限界突破してて途中でギブした。",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "炊きたてご飯に卵かけるだけで優勝できる国、日本。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "メンブレした時はとりあえずチョコ食べるに限る。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "観葉植物の水やり、忘れるかあげすぎるかの二択しかない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "オフサイド、何回説明されても次の日には忘れてる。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ボールペンのインク、最後まで使い切れた試しがない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ショート動画見始めたら気づけば深夜2時。時間泥棒すぎる。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "電子レンジの解凍モード、未だに信用しきれてない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "新しいリップ、店内と屋外で色が全然違って見えるの罠。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "セーブし忘れてボス戦からやり直し。心が折れる音がした。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "コンビニスイーツの新作チェックが毎週の密かな楽しみ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "温泉の卓球で急にガチになる友達、どこにでもいる説。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "エゴサしたら同姓同名の別人しか出てこなかった件。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "カラオケの十八番、イントロの時点で音程外すのやめたい。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "金魚すくいの金魚、意外と長生きして今年で5年目。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "蛍光ペン引きすぎて、どこが重要か分からなくなる現象。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "激辛ラーメン完食した翌朝のことは考えないことにしてる。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "昔集めてたシールにプレミアついてるらしい。実家漁ろ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "靴下の片方だけ消える現象、そろそろ科学で解明してほしい。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "限界オタクの語彙、「無理」「尊い」「助けて」の三語構成説。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ロボット掃除機がコードに絡まって助けを求めてた。かわいい。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ボウリングでガーター連発だったのに最後だけストライク出るの何？",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "納豆は50回混ぜる派です。異論は認める。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "エモいって言葉、便利すぎて逆に何も伝わらない説。",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "Y2Kファッション流行ってるけど、当時の写真見ると複雑な気持ち。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "セロハンテープの端っこ探し、人生で累計何時間使ってるんだろう。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "加湿器のタンク、気づいたらぬめってて震えた。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ハムスターの頬袋、あの収納力は半分バグでしょ。",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ギターのFコード、挫折ポイントとして有名すぎる。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "テニスのサーブ、フォーム意識しすぎると逆に入らない。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "餃子は焼きより水餃子派って言うと少数派扱いされる。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "「了解です」が「りょ」になり、ついに「り」になった。",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "昭和ポップスが逆に新しいらしい。世代が一周してる。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "輪ゴム、引き出しに溜まる一方で使う機会が来ない。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "スマート電球にしたら、消灯に声が必要になった。退化では？",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "実家の犬、私より良いシャンプー使ってて笑う。",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "積みゲーが増える一方なのに、セールが来ると買っちゃう。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "水泳の後の空腹感、あれは異次元。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ペペロンチーノ、シンプルなのに一番難しい説ある。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "既読無視ならぬ未読無視、逆に潔くて嫌いじゃない。",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぬい活って単語、初見だと暗号にしか見えない。",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "消しゴムのカバー、最後まで残ってた試しがない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "冷蔵庫の製氷機、掃除するタイミングが一生分からない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "文鳥の握り心地は、飼った者にしか分からない幸福。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "推しのアルバム、初回限定盤と通常盤の両方買うのが礼儀。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ダーツって狙えば狙うほどブルに入らない不思議。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "カレーは二日目が最強なの、科学的に証明してほしい。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "「ワンチャン」の意味、広すぎてもはや文脈依存。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "レトロ喫茶のクリームソーダ、SNS映えで復権してるらしい。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "バスケのフリースロー、練習だと入るのに本番で外すやつ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "回らないお寿司デビューしたけど、緊張して味を覚えてない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "タイパって言葉を使ってる時点でタイパ悪い気がする。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.90,
+    "text": "シルバニア、大人になってから集め始める層が増えてるとか。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ハンドクリーム、ポーチに3本あるのに全部使いかけ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ドライヤーの冷風ボタン、正しい使い所を誰か教えて。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "カメレオンの目が左右別々に動くの、性能盛りすぎ。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "音ゲーの判定、体調で変わる気がするのは私だけ？",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "乾電池の残量、確認手段が「なんとなく」しかない。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "炊飯器の保温は何時間までセーフか、定期的に論争になる。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ペンギンの赤ちゃん、モフモフの塊すぎて反則。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "読みかけの小説、しおりを落とした瞬間に詰む。",
+    "type": "velocity"
+  }
+]

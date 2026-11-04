@@ -1,0 +1,4757 @@
+[
+  {
+    "velocity": 1.62,
+    "text": "広い通路を独り占め、ぶっ飛ばして歩いた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "通行はふだんどおりです。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "すし詰め。本当にめっちゃ混んでてオワタ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "数組いるだけで、かなり空いてる状態",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "終電ダッシュ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "密度バグってる。まじでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "散歩コース、貸切みたいになってて落ち着く",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "雨で足元が悪いのもあって、みんな慎重にゆっくり歩いてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み中",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "観光客が多くて思うように歩けませんでしたが、立ち止まるほどではなかったです。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて、まあまあ混んでる歩道になってる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まあまあ空いてるからスイスイ進めるよ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み中。まあまあ混んでて面倒くさい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "思ったより人いて、歩くのに時間かかってる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "いつもの帰宅時間帯って感じの人通り",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人通りはいつもどおり",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "芋洗い状態。まじでめっちゃ混んでるわマジ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "日常レベルの人手。普通のテンポでいける",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと人が多くて、まあまあ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "お昼すぎの地下街、ほどよい人通りでストレスなく歩けました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "流れいいね",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道が少し混んでる。自分の速度でいけない",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない。めちゃくちゃ混んでるね",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "構内の流れは平常どおりです。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "密度バグってる。まじでめっちゃ混んでるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "密集しすぎ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "空いてきた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人の歩行者が点在してるだけの、広い歩道",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "マジガラガラ。めっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "誰にもぶつからずに一直線にダッシュ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人多くて疲れる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "いつもの混み具合。普通に進むことができます",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう詰めで、めちゃくちゃ混んでる状態",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "通常通り",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつもと同じ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "びゅんびゅん抜かしていく",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "思ったより混んでなくてよかった、まあまあのペースで駅ついた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑してる。ちょっと混んでる移動中",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混雑。前を抜かすのが大変だわ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人少なめ。まあまあ空いてる状態だね",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "走ってる人が多すぎて風を感じる",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "この時間帯のこの通り、本当に人がいないね",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごい人ごみ",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "歩き放題でめちゃくちゃ楽",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "会場から出た瞬間、みんな駅に向かって走り出した",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "一度も止まらずに改札まで駆け抜けた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "歩きづらい",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "少し人いるけど余裕で進める",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "牛歩",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "思うように進まないなあ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "出口が見えてるのに全然たどり着けない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ここだけめっちゃ空いてる、貸切ロード",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと混んでるから避ける動作が必要",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりにいるね。いつもの普通の光景",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人影なくて夜道みたいな静けさ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑気味。ちょっと混んでるスピード",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "追い越すのも普通にできる多さだな",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人影ゼロだし、尋常じゃなく空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "心なしかみんな歩くのが速い",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人いるだけ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "通路が完全に詰まっており、係員の方が誘導していますが列はわずかずつしか動いていません。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ほぼ全力疾走",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "特に混雑もなく、いつも通りの道",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて微妙",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいなくてウケる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "息切れするくらい走った",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "完全にフリーズ。人混みがすごすぎる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "人がいなさすぎて逆に不安になるレベル、秒で着いた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "前が開けてきたのでペース上げた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "遅刻確定しそうだったから駅まで全力で走った",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人だらけ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "日常の通行量。普通の歩道になります",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "いつも通りの人の流れの中を歩いてる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "通行人ゼロでびっくりした",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツリポツリと",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ぞろぞろ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人数。普通の道路って感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "周囲に歩行者はほぼ見当たらず、きわめて速く通行できる状態です。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "間に合わなそうで小走りどころか本気で走った",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人混みが激しすぎて、一歩も前に進めないな",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "発車まであと少し、みんな一斉にホームへ駆けていく",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "並足で進める",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人はそこそこいるけど、歩く分には問題なし。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "ちょうどよい人の多さって感じ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "混んでないからスイスイ進める",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "歩くには困らない程度の人出",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅうで、ガチでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう詰め",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ちょい早歩きで間に合いそう",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "電車の時間が近いのでみんな少し急ぎ足",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "混んでるってほどでもない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "すっからかん",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "混雑気味かも",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "階段の途中で動けなくなった、上も下も人でびっしり",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "芋洗い状態",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "ほどほどに人が見える。いつも通りの普通さ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない。めちゃくちゃ混んでてヤバい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "橋の上で完全に止まった",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "自然なペース",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "足取り軽め",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み状態。ちょっと混んでてウザい",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラ人がいるだけ。追い越すのも余裕だな",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅうで草",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ほぼジョギング",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "結構人が増えてきて、まあまあ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "だらだらと人の列が続く",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "完全に貸切でめっちゃ空いてるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ちょい混み",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "今日の駅、いつも通りすぎて書くことない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "超絶激混み。まじでめちゃくちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まあまあ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多め。ちょっと混んでるから前方に注意",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりにいるね。いつもの普通の風景",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "貸切状態の通路を全力で駆け抜けた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "びゅーん",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "猛ダッシュで階段かけ上がった",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "並の混み具合",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつもの感じ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人が多くてゆっくりめ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "人っ子一人いなくてめっちゃ空いてるね",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "朝早く出て正解。参道もすんなり歩ける",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラ空きだし、マジでめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特に混んでもないし空いてもない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "急げ急げ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "マイペースで歩ける",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "押すな押すなの大混雑で、列はほぼ止まったままです。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "少しは人がいるけど基本はスカスカだな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "微妙に混んでて微妙に遅い、いちばんイライラするやつ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "テンポ速め",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "詰んだ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "一本裏に入ったら、人っ子一人いなくなりました",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道が少し混んでるな。ちょっと歩きづらい",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "日常的な通行量。普通の量ですね",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人少なくて余裕で進める",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "入場待ちの列が長蛇で、先頭がまったく見えません。少し進んではしばらく止まる、という具合です。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の混み具合で歩きやすい",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "視界がクリアすぎる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "前方で何かあったのか、列がぴたりと止まってしまいました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "間に合え〜〜って全員走ってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ストレスなく歩けるふつうの人通り",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "この辺だけ人が消えた？",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "この時間らしい人通りだな",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "乗り換え時間ぎりぎりで猛ダッシュ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "やや速め",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "爆速",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特段の混雑は発生しておらず、平常の流れです。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ゆっくりだけど動いてはいる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "中くらい",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "散歩にちょうどいいくらいの人通り",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "こんなガラガラの日あるんだ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "比較的空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "少し賑わってる普通の道路",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて少しペースが落ちてます",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "標準レベルの人出",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラの人出。割と空いてて邪魔がないわ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ストレスフリーでどんどん進む",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "結構人が歩いてる。ちょっと混んでる混み方",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "疎らな人影。まあまあ空いてる部類に入る",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "混雑がひいて歩きやすくなった",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "テンポ悪いなあ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "進んだと思ったらまた止まる。これの無限ループ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "閉館間際で館内に人はほとんどおらず、出口まで小走りで一気に抜けました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "夕方になって人通りが増え、歩みはやや遅くなっています。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人歩いてる時間帯",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいるけど、普通に歩けるよ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅうすぎて、めちゃくちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人影は疎ら",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人混みでペースダウン",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "いつもより気持ち早く着いた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "サクサクいけない。まあまあ混んでる状況",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "サクサク進めない。ちょっと混んでるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "誰にも邪魔されずに全速力で走れた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "混雑は解消されたみたい。普通に流れてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "いつもの風景",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "のろのろ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "別に混んでない、普通",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "前のグループが横に広がってて抜かせない〜",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "すいすい進める",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "足が勝手に駆け出すくらい急いでる",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "無人状態",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいる。普通の通勤路だな",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "適度な人通り。いつも通りの普通の多さ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "動かない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "このくらい人が少なめの通りが一番好き",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "プライベートロード並みにめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人影見当たらず",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "歩行者ゼロ。めちゃくちゃ空いてて平和だ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "子どもが潰されそうで怖い、ほとんど動けないし",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人通りは疎らですね。自分の速度で歩けます",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "数人歩いてる程度。すいすい進めて快適です",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くてちょっとストレスたまるな",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人出",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいないから深呼吸しながらリラックスして歩いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "若干混んでる。まあまあ混んでるレベルだ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人をかき分けるほどじゃないけど、スッとは歩けない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人がパンパン。まじでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "身動きとれず",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ごくふつう",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "最高にガラガラでめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "道路が人で埋め尽くされてて、全く動けない",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "ガランとしてる。凄く空いててマイペースにいける",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "前も後ろも無人。めちゃくちゃ空いてるよ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "息苦しいくらいの人混みで、足がまったく前に出ない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "遮るものが何もない。本当に空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "前が詰まってないから気持ちよく歩ける",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "通路がパンク状態",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "歩くというより流されてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "混んでるけど一応流れてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない混み方してる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "風のように去っていく人々",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "じりっ…じりっ…って感じ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "いつもよりちょっと速いかも",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "紅葉シーズンはどこもこんな感じなんだろうね、人の後ろをとぼとぼついていくしかない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "見渡す限り無人。こんなこともあるんだ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごい密集状態で、全く身動きが取れない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "通路は空き気味で、いつもより少し早く歩けています。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "小股でちょこちょこ歩いてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道がやや混んできた。避ける動作が増える",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "自転車並みのスピードで歩いてる人がいる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人混みが激しい。ガチでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "少しは人がいるけど、結構空いてて快適",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎて、完全に歩行がストップした",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごい人ごみ。めっちゃ混んでて動けん",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ歩行者がいるな。でも問題なく進める",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "満員電車かよ。めちゃくちゃ混んでて無理",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "混みすぎて抜け道探したい",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人はまばらだからマイペースに歩こう",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人が多いので、いつもより時間に余裕を持ったほうがよさそうです。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密。まあまあ混んでるから詰まり気味",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "超ガラガラに空いててウケる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "見渡す限り、めちゃくちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "避けながら歩くの地味に大変",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらな感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "買い物客でにぎわっていて、すいすいとはいかない感じ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "人が減ってきてペースが上がった",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "祭りの屋台通り、ベビーカー押してる人とか大変そう…自分もすり足でしか進めてない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてますなあ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人が少なくて、スムーズに動けるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "立ち往生",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人出。避けるのに苦労はしないな",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと人多い",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "びくともしない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人しかいない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "待機列かと思ったらこれ通路なんだよな…動かなすぎる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ダッシュ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいなくて道が広く感じる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "改札に向かう列が少し滞っていて、普段より歩くのに時間がかかりました。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人通りが少なくて、かなりスムーズに移動中",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "台風の日で外に誰もおらず、普段の人混みが嘘のように一気に歩けた。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ほどほど",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎて、その場から全く動けないわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "退場の列、さっきから微動だにしてない気がする",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいなくて、めっちゃ空いてるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "わりかし速い",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう。ガチでめっちゃ混んでて詰み",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "視界に人ゼロ、めちゃくちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "普段よりワンテンポ遅い",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "前方に誰もいなくて見通しが良すぎるな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "え、これ動いてる？？ってレベル",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "閑散とした道を小走りで一気に",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "みんな殺気立った速さで歩いてて怖い",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "想定どおりの時間で駅に到着しました。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "疎らな人影。まあまあ空いてる方だな",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらな人出。まあまあ空いてるね",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "乗り換えにとんでもなく時間かかった、普段ならすぐなのに",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な人通り。至って普通のテンポ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "人がばらけてきて、歩きやすさが戻ってきた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密。まあまあ混んでるから面倒だな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "まあまあ混んでる。急いでる人にはつらいかも",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "急いでるのに前が遅くてもどかしい",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "思ったより早く抜けられた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "現在、通路内は著しく混雑しており、歩行が困難な状況となっております。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "スカスカすぎる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "混雑気味",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ぎっしり",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "前に人があまりいないので気持ち速めに歩いてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "周りと同じくらいの普通のペース",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごい密集度。めちゃくちゃ混んでるわね",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人混みがすごすぎて、完全にフリーズ状態",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "完全に人がスタックするほど、めっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "密集の極致。ガチでめっちゃ混んでるな",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "超大混雑。めちゃくちゃ混んでて動けない",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人がいなさすぎて、もの凄く空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "毎日こんなもん",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人多すぎ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "前の人につっかえ気味だな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "屋台を見ながらみんなゆっくり歩いてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "半歩ずつ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "前の人に合わせるしかない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通に歩ける",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "止まらないだけありがたいけど、遅い",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "朝の空気が気持ちよくて自然と歩くのが速くなる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "満員電車かよ。めちゃくちゃ混んでて無理だ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "スムーズ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "通常ペースで移動中",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "歩道が狭くてすれ違うたびにペースが落ちる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "初詣の参道、一歩進んでは止まり、の繰り返しでした。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "会場を出るだけでひと苦労でした。出口付近は人が密集していて、すり足で少しずつ進むのがやっと。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "すし詰め。本当にめっちゃ混んでてピエン",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "疾走",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "朝練に遅れそうで、誰もいない道をひたすら走った",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "平日の朝イチに来たら誰もおらず、入口から展示室まで一瞬だった",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいなくて平和",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "駆け込み",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラ空きロード。最高に空いててノンストレス",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混んでいてちょっと歩きにくいな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "可もなく不可もなくって感じの人出",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "会場周辺は現在目立った混雑はなく、ふだんと変わらない様子です。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "激混みで前に進めません",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "行きも帰りも特に変わったことなし、いつもの歩き",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "かなり間隔をあけてぽつぽつ人がいる感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "やや急ぎ足の人が多い印象です。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人出。普通のスピードで歩行中",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多めだから、ぶつからないように注意",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "雨が降り出して、みんな一斉に走り出した",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "これくらいなら、まあまあ空いてるって言える",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "サクサクいけない。まあまあ混んでるな",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人通り少なめ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "空っぽの歩道を飛ばす",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごく混んでる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "前の人との距離ほぼゼロ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "すたすた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "前後に少し人いるくらいだね",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "猛スピード",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "いつもより早く着きそう",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人の壁",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "スカスカでウケる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "全然進まん",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "混雑のピークは過ぎたようで、流れがだいぶ速くなってきました",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人が歩いてるけど、並足で進めます",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "歩くというより押し流されてるだけ。しかもめっちゃ遅い",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "追い越しも楽",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "トロトロ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "貸切状態",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "疎らな人影",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて、まあまあ混んでる状態になります",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "まあまあ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "芋洗い状態。まじでめっちゃ混んでるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいるけど、特に不自由はないな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "全然前いかん",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "密集の極致。完全に動きが止まっています",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "一瞬で改札",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "散歩してる人が少しいる程度",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "通路全体が人で埋め尽くされ、列はほとんど動く気配がありません。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少しペース落ちる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "チラホラというより普通にいる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "一歩も前に出られない時間のほうが長い",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の量だね",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "自然な混み具合",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "混雑具合は平均的",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "周りに人いなくて快適だわ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "歩行者まばらでかなり快適",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいねえ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "可もなく不可もなし",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "詰まり気味",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人はいるけど気にならない程度",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "混みすぎて歩くという行為が成立してない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人で詰まりすぎて進行停止",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "周りのペースが遅い。ちょっと混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "遅いけど、止まるほどじゃない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "まあこんなもんでしょ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "若干の混雑。まあまあ混んでるから抜かせない",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "前にも後ろにもそれなりに人が歩いてる。普通の状況",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多め。ちょっと混んでる流れに乗る",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "花火終わって駅まで向かってるけど、さっきからほとんど位置が変わってない気がする",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人しかいないし、比較的空いてるね",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラいる程度。結構空いてるから楽",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人はまばら。割と空いてて歩きやすい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "もはや行列じゃなくて塊",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "並",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "遅め",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "がらがらの通路を全力で駆ける",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "いつもの通行量。普通の歩道です",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "テンポよく歩けて気持ちいい",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "気づいたら走ってた、それくらい急いでた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎて完全に詰んだ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人通りが疎ら。まあまあ空いてる部類",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人が少なくて楽",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "一向に進めん",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ぎゅうぎゅうで身動きとれないんだが",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "人通り皆無で、めちゃくちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "避ける余裕すらないレベル",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "わりと賑やか",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "数人いるくらいで、割と空いてるね",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "だらだら進む列",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰も見当たらない。ガチで空いてて気楽",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "前がつかえててスピード出せない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多めだから、ちょっと歩行が制限されるな",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "地味に人多い",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "平日昼間のよくある人通り",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "待たされることなく、さくっと改札を抜けた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "適度ににぎわってる",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人とすれ違う程度。結構空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "標準レベルの人出。普通にすれ違えるよ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "結構な人出でちょっと歩きづらいです",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎてカオスすぎる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "傘さしてる人多くて歩きづらい、ペース落ちる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない大混雑。身動きひとつ取れない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混み始めてて足元に気が向く",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてる部類だから、スムーズに歩ける",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の人通り。いつもこんな感じ",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "全然スカスカ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特に問題なく歩けています。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人をよけながらだから、どうしても遅くなる",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "いつもの抜け道、今日は完全無人ですね",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "貸切ロード",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人通り疎ら。まあまあ空いてる部類",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "サクサク",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "キャパオーバー。めちゃくちゃ混んでてフリーズ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラ人がいるだけで、普通に空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "驚くほどめっちゃ空いてる通路",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "歩いてるの自分だけで笑う",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が集まってて、まあまあ混んでるな",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "基本はスカスカ。割と空いてるから楽ちん",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "超渋滞",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "歩けないレベル",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "もぬけの殻の構内を猛ダッシュ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "完全にストップ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ流れてる。至って普通の状況です",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "ほどほど人がいる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "少し速め",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "バタバタと走り抜ける人たち",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "足踏みしてるだけ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ちょっと早足",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人出。普通の混み具合",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "日常レベルの人手。普通のテンポで歩ける",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "そこそこ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "最速",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない混み方で動けない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "追い越しにくくて、まあまあ混んでるストレス",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空き具合はほどほどです",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "大混雑で完全に詰んだ。めっちゃ混んでるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいるけど、普通に進める",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "混雑なし、かといってガラガラでもなく",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ流れてる。至って普通の状況",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "すれ違うだけでも気を使う",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "乗り換え余裕だった、通路すいてて助かる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "そこそこ空いてるから歩きやすくて助かる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人通りが皆無。めちゃくちゃ空いてて静か",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ずっと同じ場所に立たされてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人多くてなかなか自分のペースで歩けない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "まあまあ人がいる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "改札前が人で埋まっていて、ほとんど前に進めない状況です。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人先に見えるくらいで、割と空いてる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "本当に誰もいなくてめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "混んでないし空いてない。至って普通レベル",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まばら",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "普通に歩いて普通に着いた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "大渋滞。めちゃくちゃ混んでて1ミリも進まん",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "道が静かすぎずちょうどいい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "立ち止まることもなく、急ぐこともなく",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "結構空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混んでる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと歩きにくい",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "少しは人がいるけど、割と空いてて快適",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "適度に人いて夜でも安心",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "あっという間に通り抜けた、誰もいないから",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "通常運転",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "走ってる人ばっかり",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "何となく空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりに人が通り過ぎる。普通の通行量",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "特に混雑なし、空いてもいない",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "道がスカスカで歩きやすいです",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "すし詰め状態。まじでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "道が広く使えてストレスない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "遅れることも早まることもなく、予定どおり到着。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混んでて追い抜きにくい",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "わりとスイスイ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人波に飲まれて流されてる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "歩道がスカスカ。めっちゃ空いてて快適",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "抜かしたいけど抜かせない微妙な混み具合",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "貸切状態じゃん。ガチで空いてて最高",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "現在、構内はたいへん空いており、非常に速やかにご移動いただけます。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "かなりスムーズ。結構空いてるね",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "ほどほどに人が見える。いつも通りの普通",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の人通り",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ちょっと人はチラつくけど、結構空いてる方",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "流れてはいるけど遅い。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "歩道の混み具合は普通。歩くスピードも普通",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "マジでめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "人の間をするっと抜けていける程度には空いてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "超ノロノロ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通くらいの人通り。特に問題はない",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "いつも通りの人出",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "思い通りに進めない。ちょっと混んでるな",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎっしり人いてかなり苦しい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "スマホ見ながら歩いてる人多くてペース上がらん",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらに人が歩いてるくらい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "すし詰めすぎて足元見えない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑してる。ちょっと混んでる移動空間",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "普通に人通りある帰り道だな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "お土産屋さんの前でみんな立ち止まるから流れが悪い",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道が少し混んでて、前を追い越しにくいです",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "止まってる時間長すぎて足が棒",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "世界に一人きり感",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ピーク時間を外したおかげか、歩道は空いていて気持ちよく歩けました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "超特急",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "遅い",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人が密集しすぎて、めっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "独走状態でぶっちぎりで走ってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "標準的な人出で、通行に支障はありません。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラの人通り",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "スッと通れる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "競歩みたいな速度で乗り換え",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "平均的な混み方。普通に歩ける範囲内",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "超混雑で避けるスペースなし",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと密",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "大通り沿いの歩道だけど、奇跡的に無人です",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "朝の通勤客の歩く速さ、ほぼ小走りなんよ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "人っ子一人おらん。めっちゃ空いてて素晴らしい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "朝の乗り換え通路、今日はいつもより詰まってる気がする",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "さっきから前方までずっと通路が空いている",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "混雑の時間帯を過ぎたので、足取りも軽くなりました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "がらんとしたコンコースを大急ぎで横切る",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "とくに早くも遅くもなく",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "ふつうに人とすれ違う。いつも通りだ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅうすぎて、めちゃくちゃ混んでるわ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "今日は道が空いてていい感じ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑してて移動速度が落ちる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "こりゃしばらく動かんな",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "何となく混んでる感じ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人が歩いてる。普通の通勤ルート",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ペースが上がらない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "今日は人少なめで歩きやすい",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "貸切状態だから、自分のペースで歩ける",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "息が上がるほどのダッシュでなんとか滑り込んだ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人いる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "人が少なめで、わりと早く駅に着きました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "現在のところ、歩行者の流れに大きな変化は見られません。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつもの時間にいつもの速さで",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数組いるだけで、かなり空いてる状態だな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "カタツムリのほうが速い説",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人がパンパン。まじでめっちゃ混んでる状況",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "通路が完全にクリアでめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "誰ともすれ違わないまま、駅まで一気に走ってきた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "みんな歩くの速すぎん？？",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "すんなり通れた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいねえ！めっちゃ空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "歩行者はそれなり。普通の歩行速度を維持",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "人通り普通で安心感ある道",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "それなりに人いるな〜と思いつつ、別に詰まることもなく",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "いつもよりめっちゃ空いてて静か",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "休日の人混みなめてた。前の人の背中しか見えないし、ほぼ立ち止まってる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "足の踏み場ない",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人が歩いてる。普通の通勤路",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツポツ人はいるけど、割と空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "流れに逆らえないので、のろのろついていく",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりに人が通り過ぎる。普通の量だ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ノロノロどころじゃない、ほぼ静止",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと混んでるから避ける動作が増える",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラガラすぎて、ちょっと不気味だな",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "激混み。めちゃくちゃ混んでて立ち往生だ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいるけど、普通に進めるね",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人通りなくて風の音しかしない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "引っかかることなくスルスル",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混雑してる。少し人を気にするレベル",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "こんなにめっちゃ空いてることあるんだね",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラいる程度。割と空いてるから平気",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "本当に誰もいない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密。ちょっと混んでるから歩きにくい",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "遮るものが何もないから全速力",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑気味",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ちょっと人はチラつくけど、結構空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "通路には人影がほとんどなく、あっという間に通り抜けられました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "開場直後だったので人も少なく、会場まではすたすたと歩いて行けました。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツポツ人はいる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "超大混雑。めちゃくちゃ混んでて動けないわ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人だらけで全然前が見えない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "人っ子ひとりいない地下通路、めちゃくちゃ早く抜けられた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "程よく人いて街っぽさある",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "避けながら歩くの面倒すぎる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人出。普通のスピードで移動中",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "やばい、人多すぎて全く進まないんだけど",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "この歩道、自分しか歩いてない。貸切状態！",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう詰めの歩道。1ミリも進まない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "周りのペースが遅い。ちょっと混んでるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "流れが鈍い",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "止まってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "空いてるからちょっと早歩き",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "人はほどほどにいる。普通の混み具合",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人混みで歩幅すら調整できん",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "人波にのまれて、ほんの少しずつしか前に行けませんでした。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ちんたら歩く集団の後ろについてしまった",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ちらほらいる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "もはや歩きじゃなくて走り",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "歩道にそれなりに人が見えますが、歩きやすい",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混雑",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "マジでガラガラ。もの凄く空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅう詰めで息苦しいレベル",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "いつも通りの量。普通に避けられる多さ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み状態。ちょっと混んでてダルい",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "こんなに空いてるの初めて見た、ほぼ走ってる速度で歩けた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "完全貸切",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "進まない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "混雑というほどの人出ではなく、通常の速さで歩けました。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "混雑えぐくて全然歩けない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "減速することなく一気に通過",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特に言うことなし、いつも通り歩けた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "空いててスムーズ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "たまに人とすれ違うくらい",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "流れに乗ったら予定より少し早く着いた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な人出。普通のペースで移動できる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人混み避けたい気分になる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密。ちょっと混んでるから歩きづらい",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人の気配がないな",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密気味",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "完全無人だし、めちゃくちゃ空いててスムーズ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "めっちゃ速い",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてる方だから、ストレスなく進める",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "階段の手前で大渋滞",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツリポツリと歩行者。まあまあ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "飛ぶように歩く人たち",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の人出",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "今日は標準的な人通りかな",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ほぼ走り",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "歩行不可能",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "まあ普通かな",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "特に困らない多さ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ほどよく空いてて快適",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の人通りで特にストレスなし",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "始発前の駅前、人はまばらどころかほぼゼロ。ぐんぐん歩ける",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "特に渋滞なし、人通りは普通",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な量だね。普通の通行量って感じ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない混み方",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ちょうどいい感じの人出だった",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "だーれもいない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "無人の通路を全力疾走",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人の壁が凄くて、最高にめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ちょっと急いでるけど走るほどじゃない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "この道今日はちょっと人多くない？",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "エスカレーター待ちの列が伸びてて、その手前から歩みがゆっくりになってます",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ふつうに歩けてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "いいペース",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ちょっとずつ、ほんとにちょっとずつ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "歩く人はそれなりにいますね",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "若干の混雑",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "全員駆け足",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通の人通り。スマホ見ながらでも避けられる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人通り控えめで歩きやすい道",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "靴音しか聞こえない。ガチでめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "完全にスタック",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "歩行者は疎らで、ストレスなく進めるよ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "やや混雑。ゆっくりと流れています。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "この時間なのに空きすぎでは",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "周囲がスカスカ。自分の靴音だけ響いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "じわじわ人が増えてきて、気づけばだいぶゆっくり",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "超速い",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多めでちょっとストレス",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "空いてて爆速で歩けるの快適すぎる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "混んできたので歩幅を小さめに",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み合ってる。まあまあ混んでるねえ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "カップルと家族連れが多くて、全体的にゆったりした歩み",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラガラに空いてて快適すぎる",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人通り少なめで、比較的空いてる通り",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "若干詰まってきた。ちょっと混んでるな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "日曜の観光地、止まりはしないけどだいぶゆっくりめ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "全員が競歩",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ちょっと急ぐか",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "かなり人いる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "平常運転",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "人影のない通路を、ほとんど走るように通り抜けました。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人はまばら。割と空いてて歩行がスムーズ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "昼休みのオフィス街、例によっていつもの感じ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "もたもた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ひたすら立ち尽くす",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "やや早歩き",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "好調",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "イベント会場から駅への道、ぞろぞろと人の波。急ぎたいけど無理そう",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ちらほら歩いてる人が見える",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "前にも後ろにも誰もいない",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人混みが激しい。ガチでめっちゃ混んでる状態",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人多めだな",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "信じられないくらいめっちゃ空いてるな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特に待つこともなく、かといって急かされることもなく歩けました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "午前中の並木道、人もまばらで足取り軽く進めました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "今日は歩きやすいな",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "普通に人がいる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰も歩いてない。最高に空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人の壁が凄くて、ガチでめっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "帰りたいのに帰れない、駅の入口で入場規制かかってて列がびくともしない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "散歩してても全然すれ違わん",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "特筆することのない普通の帰り道。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ゆっくりめに流れてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み合ってる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "流れが良く、いつもより少し早く到着できそうです。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "混んでて歩調が合わない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "大混雑で完全に詰んだ。めっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "大股でずんずん、ほぼ駆け足",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "え、まだここ？さっきと同じ看板の前なんだけど",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて、まあまあ混んでる状態です",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "周りに合わせて、遅すぎず急ぎすぎず",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人いるくらい。結構空いてる方だな",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "今の時間帯、マジでめっちゃ空いてるね",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "数人しかいないし、比較的空いてるな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "通路はやや込み合っており、ゆっくりとした流れになっています。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "大混雑。足の踏み場もないくらい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "通路はやや混雑しており、通常より時間がかかる見込みです。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "超混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "高速移動",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "もうずっとこのへんにいる。景色が変わらない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "前へ全く進まない。めちゃくちゃ混んでる極み",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてて楽",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰も歩いてないからめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "普通",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "人の流れが自然で歩きやすい",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ガラッガラすぎて、気づいたら走ってた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつも通りの駅前",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "いつも通りの量。普通の混み具合だな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "肩と肩がぶつかる距離で、歩幅なんてあったもんじゃない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "結構人が集まってる。やや混雑って状態",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "マジで人いない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "乗り遅れる！！走れ！",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人少なめ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人の量もペースもいつもと一緒",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "少し空いてる時間帯",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人波に合わせて普通に歩く",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "軽く早歩きできるくらいには空いてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎて完全にフリーズ。早く抜けたい",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "奇跡的にめっちゃ空いてるからスタスタいける",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "人少なめ。まあまあ空いてる状態です",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ほどよい",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "すごい混雑",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰も見当たらない",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "静かすぎて怖い",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "早朝の駅構内は閑散としており、足早に通り抜けることができました。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ゆるゆる進む",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人歩いてるのが見えるけど、余裕でかわせる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "自分のペース無理",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多め。ちょっと混んでる流れに乗る感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "すいてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "思ってたよりサクサク進む",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "休日の商店街はやっぱり人が多く、ゆっくりとしか歩けませんでした。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な人出。普通のペースでいける",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "満員電車がそのまま通路になったみたいな密度で、ほぼ止まってる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "混雑してて真っ直ぐ歩けない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "隙間が多いからどんどん前に行ける",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道が少し過密。ちょっと混んでるね",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "完全停止",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてて余裕で歩ける",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道が少し過密。ちょっと混んでるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつもこのくらいだよね、この時間",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な量だね。普通の分布って感じ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "道にわりと人が多く歩いてる感じ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや過密。まあまあ混んでるから詰まる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ふつうにてくてく",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "歩行者まばらでのんびりできる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "少しだけ急ぎ気味",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "いつもより圧倒的にめっちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "すっすっと歩ける",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "余裕あるけど、なんとなく早歩きになる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて、自分のペースで歩けないです",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "小気味よく進む",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "まあ動いてるだけマシか",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "通路は空いており、やや速いペースで流れています。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "歩けるには歩けるけどストレスたまる遅さ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "誰もいないから爆速で歩いてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと人ごみ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "急いでたからエスカレーター横の階段を駆け上がった",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "平日の夕方ってだいたいこんなもんだよね",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ダッシュで滑り込みセーフ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "完全に詰まってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ホームに降りる階段がちょっと渋滞してる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "前の人のかかと踏みそうで足が出せない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多めで少し歩きにくい歩道になってる",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が結構いる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "歩きやすくも歩きにくくもない",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "ほぼ無人の道を歩いてる感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "追い抜く相手すらいないまま全力で走った",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ノンストップで駆け抜けた",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "激混み。めちゃくちゃ混んでて立ち往生",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ほんの少し急ぎ足",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "そこまで人いなくて助かる",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人がいるけど、普通の並足キープ",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいない静かな道をのんびり帰宅中",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "とんとん拍子で改札まで",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人通りは疎らで、まあまあ空いてる歩道",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいなさすぎて写真撮り放題",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "変わりなし",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "人はそれなりにいる。普通の人通り",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多め。ちょっと混んでるから注意",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラガラで快適",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ流れてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "いつもよりだいぶ時間かかりそう",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "朝が早いぶん人が少なく、普段より少し速く歩けています。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "ぎゅうぎゅうで、ガチでめっちゃ混んでる空間",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "パラパラ人がいるだけで、普通に空いてる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "今日は流れが速いな",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "ほどほどに人がいる標準的な道",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "この混雑はさすがにキツい",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "混んでるわけでも空いてるわけでもない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "普段と変わらない通勤路",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "団体さんの後ろになっちゃって、しばらくゆっくり歩くことに",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "のそのそ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "完全に詰まってる。めっちゃ混んでてカオス",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツリポツリと歩行者。まあまあ空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "追い越すのも普通にできる多さだわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "これ今日中に帰れる？ってくらい動かない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "人通りは普通。追い越すのもそんなに難しくない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "押されるがまま、ほんのちょっとずつ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "遅刻しそうで全力で走った、空いててほんと助かった",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が集まってて、まあまあ混んでる状態",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混雑。歩行者の流れを意識して歩く感じ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "人の壁",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人通りは疎らで、まあまあ空いてる路地",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "亀より遅いかもしれん",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "歩くスピードが異常に速い集団にのまれて、こっちまで小走り",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "周囲がぎゅうぎゅう。全員立ち往生してる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いつものペースで改札まで",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "普段より少しだけ足が速い",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ふつー",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ラッシュ前の通路、全員がほとんど走ってるような速さで流れていく",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "帰宅ラッシュ感が出てきた",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "基本はスカスカで、まあまあ空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "通路が人で埋まってて、めっちゃ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "雨だからか人が少ない。おかげで快調",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "通路の流れは落ち着いており、通常どおり通行できます。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "ものすごい人ごみで一向に進めない",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "超絶激混み。まじでめちゃくちゃ混んでるわ",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "スカスカの部類",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "全力疾走",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "人通りが多く、やや歩きづらい状態です。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "のんびりペース",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "周囲との距離がいつもより少し近い",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混み中。まあまあ混んでてスムーズにいかん",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "散歩客と何回かすれ違う、普通の道です",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "空いてまーす",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "歩道にはそこそこ人がいます。特に困らない",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰もいない。もの凄く空いてるから走り放題",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "人が多すぎて進むどころか押し戻されてる",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "周り全部人で埋まってる…",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "鬼のような速さで通勤客が通り過ぎていく",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "きびきび",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "混んでるなあ",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "障害物ゼロ。最速記録更新したかも",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "一本道なのに誰とも会わない",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "若干混んでる。まあまあ混んでるレベル",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "カメの歩み",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ガラガラだから走り抜けた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "商店街ぶらぶら。人が多いので自然と歩くのが遅くなる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "ホームまで一気に駆け下りた",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "数人とすれ違う程度。結構空いてるな",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "前も後ろも横も人、人、人。足を出すスペースがない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "思いのほかスムーズで拍子抜け",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "標準的な人出。すんなり進めそう",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "おしくらまんじゅう状態",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと混んでる多さ。歩きにくいです",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人の流れは普段どおりで、ふつうに歩ける",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "すっからかんでめっちゃ空いてる状態",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "圧がすごい、そして進まない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "混み具合はまあまあ",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "通路が空いてる。たまに人とすれ違うくらい",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "それなりの人数。普通の道路って感覚",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "角を曲がったら、完全にガラガラでした",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "前方の見通し最高。めちゃくちゃ空いてる",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "前方も後方も、めっちゃ空いてて快適",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "やや混雑してて周辺がガヤガヤしている",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "少し混雑気味。ちょっと混んでる移動ペース",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "規制がかかっているようで、ホームへ上がる階段の前で長いこと足止めされています。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "現在、通路はたいへん空いており、皆さま駆け足に近い速さで移動されています。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "完全に渋滞",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "信号変わりそうでちょっと早歩き",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が増えてきて少し混んできた",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらな人出。これくらいが一番動きやすい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ミリ単位でしか動いてない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "可もなく不可もない、普通の混み方",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "ガラガラすぎ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "いたって平常",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "大混雑で完全に足止めを食らってます",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "人が全然いない！走れる！",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "人が詰まりすぎてて草",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "人が多すぎて、めちゃくちゃ混んでる完全停止",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "軽く早歩きしてる程度",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツポツいる程度。まあまあ空いてるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ちょっと混んでて歩きにくい",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "遠くを見渡しても、歩行者が一人も見当たらない",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "キャリーケース引いてる人が多くて、流れがゆったりしてる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ダラダラ歩き",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "比較的スムーズに流れています。",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "抜かしやすい",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "ごく普通の週末のにぎわい、といったところでしょうか。",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "人はまばら",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "発車ベル鳴っててホームまで小走り、周りもみんな走ってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "安定の普通さ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "密集度が高すぎて、前に進むのが不可能です",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "尋常じゃない。めちゃくちゃ混んでるねこれ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "こんなに動かない人混みは初めてかもしれない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "混んでないと歩くの楽だなあ",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "歩行者少なめ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "スピードが上げられない。まあまあ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "ライブ終わりの規制退場、出口までが果てしなく遠い…じりじりとしか進まない",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "すっからかんの構内を駆け抜ける",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "周囲に人そこそこいるけど普通に歩ける",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "寝坊して家から駅まで走りっぱなし",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "歩いてるというより立ってる時間のほうが圧倒的に長い",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらで快適",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "スローペース",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "追い越せそうで追い越せない",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "そこそこ人が歩いてるけど全然平気",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "奇跡的なレベルでめっちゃ空いてる歩道",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人影ゼロだしめっちゃ空いてるわ",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "そこそこ混んでる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.18,
+    "text": "詰まりすぎ",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "ちょっと混んでる多さ。歩きづらいね",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まあまあ空いてるから歩きやすい",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "人の流れに乗ってそのまま歩いてたら着いた",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "駆け足",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "一歩も進まねえ",
+    "type": "density"
+  },
+  {
+    "velocity": 0.9,
+    "text": "普通の速さで歩いてる",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "誰かはいるけど静かな雰囲気",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "比較的空いてるから自分のペースでいける",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "全然すいてる",
+    "type": "density"
+  },
+  {
+    "velocity": 0.54,
+    "text": "ゆっくりゆっくり",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "歩きやすくてつい早足に",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.9,
+    "text": "今日も変わらずいつものペース",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "入場ゲート前は大変混み合っており、ほぼ停止に近い状態が続いています。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "少しガヤガヤ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "みんな通勤モードで少しだけ急いでる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.54,
+    "text": "だいぶ人増えてきた、歩くの遅くなってきたな",
+    "type": "velocity"
+  },
+  {
+    "density": 0.6,
+    "text": "ちょっとだけ人がいるけど、スペースは十分ある",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "通路は比較的空いており、スムーズにご通行いただけます。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.0,
+    "text": "人通りは普通で、いつものペースでいける",
+    "type": "density"
+  },
+  {
+    "density": 1.4,
+    "text": "歩道がやや混雑。まあまあ混んでるな",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "全然混んでない。まあまあ空いてるよ",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "混雑えぐい",
+    "type": "density"
+  },
+  {
+    "density": 1.8,
+    "text": "満員電車かよ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "目にも止まらぬ速さで駆け抜ける",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "全速力",
+    "type": "velocity"
+  },
+  {
+    "velocity": 0.18,
+    "text": "出口に人が殺到していて、すり足でわずかに進むのが精一杯でした。",
+    "type": "velocity"
+  },
+  {
+    "density": 1.4,
+    "text": "人が多くて少し詰まってきた。やや混雑だな",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "平均的な混み方。普通に歩けるレベル",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "人がいない",
+    "type": "density"
+  },
+  {
+    "velocity": 1.26,
+    "text": "走りはしないけど、いつもより早め",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "ちょっと急いでるので早歩き中",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.62,
+    "text": "信号ひとつ引っかからずに走り切った",
+    "type": "velocity"
+  },
+  {
+    "density": 0.2,
+    "text": "夜でもないのに私以外の足音が全く聞こえない",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "帰宅途中の人がそこそこいるな",
+    "type": "density"
+  },
+  {
+    "density": 1.0,
+    "text": "混んでないし空いてない。至って普通",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "ポツポツいる程度。まあまあ空いてる景観",
+    "type": "density"
+  },
+  {
+    "density": 0.6,
+    "text": "まばらで歩きやすい",
+    "type": "density"
+  },
+  {
+    "density": 0.2,
+    "text": "誰も歩いてなくて、めちゃくちゃ空いてるわ",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "走ってる",
+    "type": "velocity"
+  },
+  {
+    "velocity": 1.26,
+    "text": "軽快",
+    "type": "velocity"
+  },
+  {
+    "density": 1.8,
+    "text": "密集の極致。本当にめっちゃ混んでるな",
+    "type": "density"
+  },
+  {
+    "velocity": 1.62,
+    "text": "深夜の商店街は人影もなく、一気に通り抜けた。",
+    "type": "velocity"
+  }
+]
