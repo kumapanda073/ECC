@@ -141,4 +141,4 @@ python vsAI/simulation_v2/main.py
 
 ## 作者
 
-<!-- TODO(本人): 名前・所属 (載せたい範囲で) -->
+慶應義塾大学　井上研究室　佐久間
