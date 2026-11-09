@@ -1,86 +1,90 @@
-# ECC用のシミュレーションコード: SNS テキストを「人センサ」として用いた群集状態推定
+# Simulation Code for ECC: Crowd State Estimation Using Social Media Texts as Human Sensors
 
-## 人由来の観測情報を用いた人流推定
+English | [日本語](README.ja.md)
 
-人の発する「ここめっちゃ混んでる」「全然人がいない」といったテキストを、物理センサと同列に扱える観測値として状態推定に取り込むという研究のコードです。カルマンフィルタにより物理センサと融合し、通路の区間ごとの群集密度・歩行速度を推定します。
+## Crowd Flow Estimation Using Human-Generated Observations
 
-テキストはBERTベースの2ヘッドネットワークで定量化します。
+This repository contains the code for our research on incorporating human-generated texts, such as "It's super crowded here" or "There's hardly anyone around", into state estimation as observations that can be treated on par with physical sensors.
+The texts are fused with physical sensor measurements by a Kalman filter to estimate the pedestrian density and walking speed in each section of a corridor.
 
-分類ヘッド: テキストを M 段階のカテゴリに分類し、そのカテゴリ代表値を観測値 y として出力。同時に、分類の確信度の低さ（解釈の曖昧さ）を分散 σ²_cls として算出
-分散ヘッド: 分類の確信度には現れない残差成分（量子化誤差など）σ²_var を推定
+Each text is quantified by a BERT-based two-head network:
 
-観測ごとに R = σ²_cls + σ²_var をカルマンフィルタの観測ノイズ分散として動的に設定するのが核心です。曖昧なテキストや状態と無関係なテキストほど R が大きくなり、カルマンゲインを通じて推定への寄与が自動的に抑えられます。
+- **Classification head**: classifies the text into one of M categories and outputs the representative value of that category as the observation y. It also computes the variance σ²_cls, which reflects the low confidence of the classification (i.e., the ambiguity of interpretation).
+- **Variance head**: estimates σ²_var, the residual component (e.g., quantization error) that does not appear in the classification confidence.
 
-- **観測分散 R** = 分類確率から計算した分散 (`dist_var`) + 分散ヘッドの出力。
-  無関係なテキストには大きな分散を出すよう学習させている。
-- 比較として、ガウス NLL で学習した **回帰モデル** (値と分散を直接出力) も実装している (`vsAI/`)。
+The key idea is to set R = σ²_cls + σ²_var dynamically for each observation as the observation noise variance of the Kalman filter.
+The more ambiguous a text is, or the less related it is to the crowd state, the larger R becomes, so that its contribution to the estimate is automatically suppressed through the Kalman gain.
 
-## 想定環境
+- σ²_cls is computed from the predicted class probabilities (`dist_var` in the code), and the variance head is trained to output a large variance for irrelevant texts.
+- As a baseline, a **regression model** trained with the Gaussian negative log-likelihood (which directly outputs a value and a variance) is also implemented (`vsAI/`).
 
-![想定環境: 10 区間に分割したメインストリートと 2 本の合流路](docs/images/jinryu.png)
+## Assumed Environment
 
-メインストリートを 10 区間に分割し、途中の 2 か所で横道から歩行者が合流する通路を想定しています。
-各区間 i の時刻 k における歩行者密度 ρ<sub>k</sub><sup>i</sup> と平均歩行速度 s<sub>k</sub><sup>i</sup> を状態として推定します。
+![Assumed environment: a main street divided into 10 sections with two merging side streets](docs/images/jinryu.png)
 
-## ディレクトリ構成
+We consider a main street divided into 10 sections, with pedestrians merging from two side streets along the way.
+The pedestrian density ρ<sub>k</sub><sup>i</sup> and the mean walking speed s<sub>k</sub><sup>i</sup> of each section i at time step k are estimated as the state.
+
+## Directory Structure
 
 ```
 ECC/
 ├── README.md
+├── README.ja.md                     Japanese version of this README
 ├── requirements.txt
-├── common/                          モデル・データ処理の共通部品
-│   ├── models/encoder.py                BERT エンコーダ ([CLS] 埋め込みを出力)
+├── common/                          Shared components for models and data processing
+│   ├── models/encoder.py                BERT encoder (outputs the [CLS] embedding)
 │   └── utils/
-│       ├── dataset.py                   ラベル (5 クラス) 変換・Dataset / DataLoader
-│       └── preprocess.py                テキストの前処理
+│       ├── dataset.py                   Label (5-class) conversion, Dataset / DataLoader
+│       └── preprocess.py                Text preprocessing
 │
-├── docs/images/                     README 用の画像
+├── docs/images/                     Images used in the README
 │
-├── data/                            学習用テキストデータ
-│   ├── train_den.json / val_den.json    密度ラベル付きテキスト
-│   ├── train_vel.json / val_vel.json    速度ラベル付きテキスト
-│   └── split_data.py                    train / val への分割スクリプト
+├── data/                            Text data for training (in Japanese)
+│   ├── train_den.json / val_den.json    Texts labeled with density
+│   ├── train_vel.json / val_vel.json    Texts labeled with speed
+│   └── split_data.py                    Script for splitting into train / val
 │
-├── training/                        テキスト定量化モデルの学習
-│   ├── dual_head/                       提案手法: 分類ヘッド + 分散ヘッド
-│   │   ├── models/                          モデル定義
-│   │   ├── train.py / train_velocity.py     学習 (密度 / 速度)
-│   │   ├── evaluate.py                      検証データでの評価
-│   │   └── predict.py                       1 文を入力して推定結果を確認
-│   └── gaussian_nll/                    比較手法: ガウス NLL による回帰モデル
-│       ├── regression_model.py              モデル定義
+├── training/                        Training of the text quantification models
+│   ├── dual_head/                       Proposed: classification head + variance head
+│   │   ├── models/                          Model definitions
+│   │   ├── train.py / train_velocity.py     Training (density / speed)
+│   │   ├── evaluate.py                      Evaluation on the validation data
+│   │   └── predict.py                       Interactive prediction for a single text
+│   └── gaussian_nll/                    Baseline: regression model with Gaussian NLL
+│       ├── regression_model.py              Model definition
 │       └── train_density.py / train_velocity.py
 │
-├── simulation/                      提案手法のシミュレーション評価
-│   ├── main.py                          実験の入口
-│   ├── config.py                        区間数・ノイズ・センサ配置などの設定
-│   ├── model.py                         状態空間モデル (A, B, Q)
-│   ├── simulation.py                    真値生成とカルマンフィルタの実行
-│   ├── kalman.py                        カルマンフィルタ 1 ステップ
-│   ├── sensors.py                       物理センサ / 人センサの観測生成
-│   ├── nlp_bridge.py                    テキスト → 観測値・観測分散 R
-│   ├── text_pool.json                   シミュレーションで投稿されるテキスト
-│   ├── noisy_pool.json                  状態と無関係なテキスト
-│   ├── csv/                             状態遷移行列 A
-│   ├── experiments/                     各実験 (誤り率 / 無関係テキスト率 / 時系列)
-│   ├── plotting/                        図の描画
-│   └── figure/                          出力した図と集計 CSV
+├── simulation/                      Simulation-based evaluation of the proposed method
+│   ├── main.py                          Entry point of the experiments
+│   ├── config.py                        Settings (number of sections, noise, sensor placement, etc.)
+│   ├── model.py                         State-space model (A, B, Q)
+│   ├── simulation.py                    Ground-truth generation and Kalman filter execution
+│   ├── kalman.py                        One step of the Kalman filter
+│   ├── sensors.py                       Observation generation for physical / human sensors
+│   ├── nlp_bridge.py                    Text → observation value and observation variance R
+│   ├── text_pool.json                   Texts posted in the simulation
+│   ├── noisy_pool.json                  Texts unrelated to the crowd state
+│   ├── csv/                             State transition matrix A
+│   ├── experiments/                     Experiments (error rate / irrelevant-text rate / time series)
+│   ├── plotting/                        Plotting
+│   └── figure/                          Output figures and summary CSVs
 │
-└── vsAI/simulation_v2/              分類 + KF (提案) と 回帰 / 回帰 + KF の比較実験
-    ├── main.py                          実験の入口
-    ├── regression_bridge.py             テキスト → 回帰モデルの出力
-    ├── estimators.py                    3 手法の推定
-    ├── sensing.py                       人センサの観測生成
-    ├── calibration.py                   回帰の観測分散の調整
+└── vsAI/simulation_v2/              Comparison: classification + KF (proposed) vs. regression / regression + KF
+    ├── main.py                          Entry point of the experiment
+    ├── regression_bridge.py             Text → regression model output
+    ├── estimators.py                    Estimation by the three methods
+    ├── sensing.py                       Observation generation for human sensors
+    ├── calibration.py                   Adjustment of the observation variance for regression
     ├── error_metrics.py                 RMSE / MAE
-    ├── plots.py                         図の描画
-    ├── paths.py                         パス設定
-    └── results/                         出力した図
+    ├── plots.py                         Plotting
+    ├── paths.py                         Path settings
+    └── results/                         Output figures
 ```
 
-## 実行方法
+## Usage
 
-### 1. 環境構築
+### 1. Setup
 
 ```bash
 git clone https://github.com/kumapanda073/ECC.git
@@ -88,57 +92,57 @@ cd ECC
 pip install -r requirements.txt
 ```
 
-<!-- TODO(本人): 使用した Python のバージョンを記入 (例: Python 3.x) -->
+<!-- TODO: Python version (e.g., Python 3.x) -->
 
-初回実行時に日本語 BERT (`cl-tohoku/bert-base-japanese-v3`) が Hugging Face から自動でダウンロードされます。
+The Japanese BERT model (`cl-tohoku/bert-base-japanese-v3`) is downloaded automatically from Hugging Face on the first run.
 
-### 2. モデルの学習
+### 2. Training
 
-学習済みモデル (`.pt`, 1 個 約 430MB) はサイズの都合でリポジトリに含めていないため、最初に学習します。
-各スクリプトは 10 エポック学習し、エポックごとのモデルをスクリプトと同じフォルダ内に保存します。
+The trained models (`.pt`, about 430 MB each) are not included in this repository due to their size, so please train them first.
+Each script trains for 10 epochs and saves the model of every epoch in a folder next to the script.
 
 ```bash
-# 提案手法 (分類ヘッド + 分散ヘッド)
-python training/dual_head/train.py               # 密度 → training/dual_head/checkpoints/
-python training/dual_head/train_velocity.py      # 速度 → training/dual_head/checkpoints_velocity/
+# Proposed method (classification head + variance head)
+python training/dual_head/train.py               # density → training/dual_head/checkpoints/
+python training/dual_head/train_velocity.py      # speed   → training/dual_head/checkpoints_velocity/
 
-# 比較手法 (回帰モデル)。vsAI の比較実験で使用
+# Baseline (regression model), used in the vsAI comparison
 python training/gaussian_nll/train_density.py    # → training/gaussian_nll/checkpoints_regression_density/
 python training/gaussian_nll/train_velocity.py   # → training/gaussian_nll/checkpoints_regression_velocity/
 ```
 
-学習したモデルの確認:
+To check the trained models:
 
 ```bash
-python training/dual_head/evaluate.py    # 検証データでの正解率などを評価
-python training/dual_head/predict.py     # テキストを入力して推定密度と分散を表示 (q で終了)
+python training/dual_head/evaluate.py    # Evaluate accuracy, etc. on the validation data
+python training/dual_head/predict.py     # Enter a text to see the estimated density and variance (q to quit)
 ```
 
-### 3. シミュレーション (提案手法の評価)
+### 3. Simulation (evaluation of the proposed method)
 
 ```bash
-python simulation/main.py               # すべての実験
-python simulation/main.py error_rate    # テキストの選択ミス率を変える実験
-python simulation/main.py noise_rate    # 無関係テキストの割合を変える実験
-python simulation/main.py timeseries    # 時系列の推定デモ
-python simulation/main.py replot        # 保存済みデータから図だけ再描画
+python simulation/main.py               # Run all experiments
+python simulation/main.py error_rate    # Vary the text selection error rate
+python simulation/main.py noise_rate    # Vary the ratio of irrelevant texts
+python simulation/main.py timeseries    # Time-series estimation demo
+python simulation/main.py replot        # Redraw figures from saved data only
 ```
 
-結果は `simulation/figure/` に保存されます。
-区間数・試行回数・センサ配置などの条件は `simulation/config.py` で変更できます。
+Results are saved in `simulation/figure/`.
+Conditions such as the number of sections, the number of trials, and the sensor placement can be changed in `simulation/config.py`.
 
-### 4. 分類 vs 回帰の比較実験
+### 4. Comparison: classification vs. regression
 
 ```bash
 python vsAI/simulation_v2/main.py
 ```
 
-結果は `vsAI/simulation_v2/results/` に保存されます。
+Results are saved in `vsAI/simulation_v2/results/`.
 
-## 論文
+## Paper
 
-現在査読中です。
+Currently under review.
 
-## 作者
+## Author
 
-慶應義塾大学　井上研究室　佐久間
+Sakuma, Inoue Laboratory, Keio University
