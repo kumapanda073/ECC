@@ -139,9 +139,6 @@ python vsAI/simulation_v2/main.py
 
 Results are saved in `vsAI/simulation_v2/results/`.
 
-## Paper
-
-Currently under review.
 
 ## Author
 
