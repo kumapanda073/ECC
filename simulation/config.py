@@ -10,8 +10,8 @@ T = 70
 
 # ノイズ設定
 q_disturbance = 0.03
-r_phy_density = 0.1            
-r_phy_velocity = 0.08           
+r_phy_density = 0.05            
+r_phy_velocity = 0.04           
 r_human_den_perception = 0.01
 r_human_vel_perception = 0.01
 
@@ -51,9 +51,9 @@ HUMAN_CONFIGS = [
 inflow_main = 0.1   # u1: 区間1への流入
 inflow_u2   = 0.3   # u2: 区間4への流入
 inflow_u3   = 0.2   # u3: 区間7への流入
-inflow_v1   = 0.35   # v1: 区間1の速度入力 (自由流速度を与える)
-inflow_v2   = 0.03  # v2: 区間4の速度入力 (合流による減速)
-inflow_v3   = 0.05  # v3: 区間7の速度入力 (合流による減速)
+inflow_v1   = 0.35   # v1: 区間1の速度入力(クリッピング範囲に入るように調整する)
+inflow_v2   = 0.03  # v2: 区間4の速度入力
+inflow_v3   = 0.05  # v3: 区間7の速度入力 
 
 
 # システムモデル設定(model.py)
@@ -66,8 +66,8 @@ q_velocity_base = 0.001
 DISTURBANCE_STATE_INDICES = [3, 6, num_sections + 3, num_sections + 6]
 
 # 外乱の平均(simulation.py)
-W_MEAN_DENSITY  = {3: 0.01, 6: 0.01}
-W_MEAN_VELOCITY = {3: -0.01, 6: 0.0}
+W_MEAN_DENSITY  = {3: 0.0, 6: 0.0}
+W_MEAN_VELOCITY = {3: 0.0, 6: 0.0}
 
 # 初期値(simulation.py)
 x0_density  = 0.8    # 真値の初期密度(全区間)
